@@ -43,7 +43,7 @@ El presente curso tiene por objeto dar a conocer a los participantes cómo const
 </p>
 
 ### Authors and Contributors
-Para más información ir a la página de <a href="http://www.couchbase.com" class="user-mention">@Couchbase</a>
+Para más información ir a la página de <a href="https://cordova.apache.org" class="user-mention">@ApacheCordova</a>
 
 ### Support or Contact
-Alguna duda sobre Couchbase? <a href="https://twitter.com/agustincl">Tweet me!</a>
+Alguna duda sobre Apache Cordova? <a href="https://twitter.com/agustincl">Tweet me!</a>
