@@ -17,6 +17,9 @@ http://yuilibrary.com/license/
 }*/
 
 
+.apache-cordova {
+		color: #62C2E3;
+}
 .zf-color {
 		color: #68B604;
 }
@@ -47,4 +50,29 @@ http://yuilibrary.com/license/
 
 .reveal pre code {
 		max-height: 600px;
+}
+
+.reveal strong{
+	color: white;
+}
+
+.reveal table {
+    margin: auto;
+    margin-top: 20px;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.reveal table th, .reveal table td {
+    text-align: left;
+    padding: 0.2em 0.5em 0.2em 0.5em;
+    border-bottom: 1px solid;
+}
+.reveal table th {
+    font-weight: bold;
+		color: wheat;
+}
+.reveal table th, .reveal table td {
+    text-align: left;
+    padding: 0.2em 0.5em 0.2em 0.5em;
+    border-bottom: 1px solid;
 }
