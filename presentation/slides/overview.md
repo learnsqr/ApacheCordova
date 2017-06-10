@@ -66,7 +66,7 @@ __Once you switch from the CLI-based workflow to one centered around the platfor
 
 ---
 
-## <span class="mysql-color">Development Paths: Cross-platform </span>
+## <span class="mysql-color">Cross-platform </span>
 
  - __Cross-platform (CLI) workflow__: Use this workflow if you want your app to run on as many different mobile operating systems as possible, with little need for platform-specific development.
   - The CLI is a __high-level tool__ that allows you to __build projects for many platforms at once__.
@@ -74,7 +74,7 @@ __Once you switch from the CLI-based workflow to one centered around the platfor
 
 ---
 
-## <span class="mysql-color">Development Paths: Platform-centered</span>
+## <span class="mysql-color">Platform-centered</span>
 
  - __Platform-centered workflow__: Use this workflow if you want to focus on __building an app for a single platform__ and need to be able to modify it at a lower level.
   - To __mix custom native components__ with web-based Cordova components

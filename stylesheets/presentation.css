@@ -76,3 +76,7 @@ http://yuilibrary.com/license/
     padding: 0.2em 0.5em 0.2em 0.5em;
     border-bottom: 1px solid;
 }
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    margin-top: -60px !important;
+	}
